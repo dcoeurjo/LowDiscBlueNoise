@@ -1,4 +1,4 @@
-# Low-Discrepancy Bue Noise Sampling
+# Low-Discrepancy Blue Noise Sampling
 
 **Super fast Low-discrepancy + Blue noise 2D sampler.**
 
