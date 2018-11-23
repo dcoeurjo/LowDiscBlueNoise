@@ -10,8 +10,9 @@ Single C++ header without any dependency to generate 2D point sets which have bo
     ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia), 35(6), 2016.
 
 
-The current code can generate point sets for the  Blue-noise and Step target spectra in a very efficient way (2.14ms for 1M points, cf the article for more details). 
+The current code can generate point sets for the  Blue-noise and Step target spectra in a very efficient way (2.14ms for 1M points, cf the article for more details).
 
+![](BN1K.png)
 
 ## License
 
