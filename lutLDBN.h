@@ -10,6 +10,8 @@
  * All rights reserved.
  *
  * Refactoring by David Coeurjolly 2018-11-22
+ * Copyright (c) 2018, David Coeurjolly
+ * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted provided that the following conditions are met:
