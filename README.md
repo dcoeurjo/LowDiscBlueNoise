@@ -2,7 +2,7 @@
 
 **Super fast Low discrepancy and Blue noise 2D sampler.**
 
-Single C++ header without any dependency to generate 2D point sets which have both [low discrepancy](https://en.wikipedia.org/wiki/Low-discrepancy_sequence) and Blue-Noise properties. This code is a c++ refactoring of the implementation given by the following paper ([Project page](https://projet.liris.cnrs.fr/ldbn/)):
+Single C++ header with no dependencies to generate 2D point sets which have both [low discrepancy](https://en.wikipedia.org/wiki/Low-discrepancy_sequence) and Blue-Noise properties. This code is a c++ refactoring of the implementation given by the following paper ([Project page](https://projet.liris.cnrs.fr/ldbn/)):
 
 
     Low-Discrepancy Blue Noise Sampling.
