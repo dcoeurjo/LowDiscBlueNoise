@@ -1,9 +1,9 @@
 #include <iostream>
+#include <vector>
 #include "lutLDBN.h"
 
 int main()
 {
-
   std::vector<Point> samples;
   initSamplers();
 
